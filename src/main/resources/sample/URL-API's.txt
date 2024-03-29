@@ -1,0 +1,30 @@
+Template
+TemplateByName                 url - http://localhost:8083/ee-dashboard/api/v1/template/T1                                    Response - TemplateByName-Req-resp.json(find Attachment)
+Template/projectType           url - http://localhost:8083/ee-dashboard/api/v1/template/projectType/internal                  Response - Template/projectType-Req-resp.json(find Attachment)
+Template/info/projectType      url - http://localhost:8083/ee-dashboard/api/v1/template/info/internal                         Response - Template/info/projectType-Req-resp.json(find Attachment)
+Template/id                    url - http://localhost:8083/ee-dashboard/api/v1/template/id/1                                  Response - Template/id-Req-resp.json(find Attachment)
+
+Project
+Project/create                 url - http://localhost:8083/ee-dashboard/api/v1/project/create                                 Response - project/create-Req-resp.json(find Attachment)
+Project/businessUnitId         url -http://localhost:8083/ee-dashboard/api/v1/project/businessUnitId/3                        Response - Project/businessUnitId-Req-resp.json(find Attachment)
+
+BusinessUnit
+businessUnit/create            url - http://localhost:8083/ee-dashboard/api/v1/businessUnit/create                            Response - businessUnit/create-Req-resp.json(find Attachment)
+businessUnit/id                url - http://localhost:8083/ee-dashboard/api/v1/businessUnit/2                                 Response - businessUnit/id-Req-resp.json(find Attachment)
+businessUnits                  url - http://localhost:8083/ee-dashboard/api/v1/businessUnits                                  Response - businessUnits-Req-resp.json(find Attachment)
+
+Assessment
+assessment/saveOrSubmit        url - http://localhost:8083/ee-dashboard/api/v1/assessment/saveOrSubmit                        Response - assessment/saveOrSubmit-Req-resp.json(find Attachment)
+assessment/{assessmentId}      url -http://localhost:8083/ee-dashboard/api/v1/assessment/1                                    Response - assessment/{assessmentId}-Req-resp.json(find Attachment)
+assessment/submittedby         url - http://localhost:8083/ee-dashboard/api/v1/assessment/submittedBy/56                      Response - assessment/submittedby-Req-resp.json(find Attachment)
+assessment/all                 url - http://localhost:8083/ee-dashboard/api/v1/assessment/all                                 Response - assessment/all-Req-resp.json(find Attachment)
+
+Scrore-Scale
+scoresales                     url - http://localhost:8083/ee-dashboard/api/v1/scoreScales                                    Response - scoresales-Req-resp.json(find Attachment)
+
+Score-Category
+score/category                 url - http://localhost:8083/ee-dashboard/api/v1/score/category                                 Response - score/category-Req-resp.json(find Attachment)
+scoreCategoryId                url - http://localhost:8083/ee-dashboard/api/v1/score/category/1                               Response - scoreCategoryId-Req-resp.json(find Attachment)
+
+Project-Type
+projectTypes                   url - http://localhost:8083/ee-dashboard/api/v1/projectTypes                                   Response - projectTypes-Req-resp.json(find Attachment)

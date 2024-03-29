@@ -1,0 +1,9 @@
+{
+	"templateId": 1,
+	"templateName": "T1",
+	"templateUploadedUserId": 1,
+	"description":" This Assessment contains testing project related category",
+	"templateUploadedUserName": "Ravi",
+	"projectTypes": [111],
+	"templateData": "{\n\n  \"projectCategory\":[\n    {\n      \"categoryName\":\"intial\",\n      \"categoryDescription\":\"This project category contains intial level question\",\n      \"templateQuestionnaire\": [\n        {\n\n\n          \"question\": \"1. How well-defined are the project objectives? \",\n          \"questionDescription\":\"project Related question\",\n          \"fieldType\":\"radio\",\n          \"valueType\":\"NUMBER\",\n          \"answerData\":[\n            {\n              \"lable\":\"yes\",\n              \"value\":1\n            },\n            {\n              \"lable\":\"No\",\n              \"value\":0\n            }\n          ]\n\n        }\n      ]\n\n    }\n  ]\n}"
+}

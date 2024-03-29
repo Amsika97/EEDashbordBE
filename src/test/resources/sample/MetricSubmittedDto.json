@@ -1,0 +1,125 @@
+{
+	"metricId": 1,
+	"metricTemplateId": 1,
+	"templateName": "T1",
+	"submittedAt": 1692618576,
+	"projectTypeId": 1,
+	"accountId":1,
+	"templateUploadedUserId": "1",
+	"submittedBy": "user1",
+	"projectId": 1,
+	"templateUploadedUserName": "Ravi",
+	"reviewers": [
+		{
+			"reviewerId": "1",
+			"reviewerAt": 1692618576,
+			"comment": ""
+		}
+	],
+	"projectCategory": [
+		{
+			"categoryName": "Requirement Phase",
+			"templateQuestionnaire": [
+				{
+					"questionId": 1,
+					"fieldType": "radio",
+					"question": "1. How well-defined are the project objectives? ",
+					"valueType": "NUMBER",
+					"answerValue":[1],
+					"answerData": [
+						{
+							"lable": "yes",
+							"value": "1"
+						},
+						{
+							"lable": "No",
+							"value": "0"
+						}
+					]
+				},
+				{
+					"questionId": 2,
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType": "checkbox",
+					"valueType": "NUMBER",
+					"answerValue":[1,2],
+					"answerData": [
+						{
+							"lable": "importan",
+							"value": "1"
+						},
+						{
+							"lable": "very important",
+							"value": "2"
+						},
+						{
+							"lable": "Not importan",
+							"value": "2"
+						},
+						{
+							"lable": "important",
+							"value": "5"
+						}
+					]
+				},
+						{
+					"questionId": 10,
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType": "dropdown",
+					"valueType": "NUMBER",
+					"answerValue":[5],
+					"answerData": [
+						{
+							"lable": "important",
+							"value": "1"
+						},
+						{
+							"lable": "very important",
+							"value": "2"
+						},
+						{
+							"lable": "Not importan",
+							"value": "2"
+						},
+						{
+							"lable": "important",
+							"value": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"categoryName": "Intial category",
+			"templateQuestionnaire": [
+				{
+					"questionId": 3,
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType": "range",
+					"valueType": "NUMBER",
+					"answerValue":[7]
+				},
+				{
+					"questionId": 4,
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType": "NUMBER",
+					"answerValue":[8.7],
+					"valueType": "DECIMAL"
+
+				},
+				
+				{
+					"questionId": 5,
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType": "text",
+					"answerValue":["How well-defined are the project objectives?"],
+					"valueType": "TEXT"
+				}
+			]
+		}
+	],
+	"submitStatus": "SAVE",
+	"accountName": "C_First Abu Dhabi Bank",
+	"businessUnitName": "QE (QEX)",
+	"projectName": "UNB - Testing Services - QA"
+}

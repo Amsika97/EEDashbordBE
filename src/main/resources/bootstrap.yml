@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://172.16.238.22:8888
+
+
+

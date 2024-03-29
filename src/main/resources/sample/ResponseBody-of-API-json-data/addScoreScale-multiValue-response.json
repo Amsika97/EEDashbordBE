@@ -1,0 +1,27 @@
+{
+    "id": 319982832,
+    "name": "frequency",
+    "scoreScaleType": "multiValue",
+    "createdUserId": 11,
+    "range": [
+        {
+            "from": 1,
+            "to": 2,
+            "optionIndex": 1
+        },
+        {
+            "from": 3,
+            "to": 4,
+            "optionIndex": 2
+        },
+        {
+            "from": 5,
+            "to": 6,
+            "optionIndex": 3
+        }
+    ]
+}
+
+
+
+

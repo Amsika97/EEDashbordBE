@@ -1,0 +1,54 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "importance",
+    "categoryOptions": [
+      {
+        "label": "Very Unimportant",
+        "optionIndex": 1
+      },
+      {
+        "label": "UnImportant",
+        "optionIndex": 2
+      },
+      {
+        "label": "Neutral",
+        "optionIndex": 3
+      },
+      {
+        "label": "important",
+        "optionIndex": 4
+      },
+      {
+        "label": "Very important",
+        "optionIndex": 5
+      }
+    ]
+  },
+   {
+    "categoryId": 2,
+    "categoryName": "satisfy",
+    "categoryOptions": [
+      {
+        "label": "Very Unimportant",
+        "optionIndex": 1
+      },
+      {
+        "label": "UnImportant",
+        "optionIndex": 2
+      },
+      {
+        "label": "Neutral",
+        "optionIndex": 3
+      },
+      {
+        "label": "important",
+        "optionIndex": 4
+      },
+      {
+        "label": "Very important",
+        "optionIndex": 5
+      }
+    ]
+  }
+]

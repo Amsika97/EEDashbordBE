@@ -1,0 +1,61 @@
+{
+  "assessmentId": 2,
+  "templateId": 1,
+  "templateName": "T1",
+  "submitedAt": 1692618576,
+  "projectType": "internal",
+  "templateUploadedUserId": 1,
+  "submitedBy": 56,
+  "projectId": 1,
+  "templateUploadedUserName": "Kalai",
+  "scoreScale": {
+    "id": 0,
+    "name": "string",
+    "range": [
+      {
+        "from": 0,
+        "to": 0,
+        "optionIndex": 0
+      }
+    ]
+  },
+  "reviewers": [
+    {
+      "reviewerId": 0,
+      "reviewerAt": 0,
+      "comment": "string"
+    }
+  ],
+  "projectCategory": [
+    {
+      "categoryName": "importance",
+      "templateQuestionnaire": [
+        {
+          "questionId": 1,
+          "answerOptionIndex": 1,
+          "fieldType": "radio",
+          "comment": "comment",
+          "fileUri": "http://test.com/File.jpg",
+          "mimeType": "image/png",
+          "question": "1. How well-defined are the project objectives? ",
+          "scoreCategory": "importance"
+        }
+      ]
+    }
+  ],
+  "submitStatus": "SAVE",
+  "scoreCategories": [
+    {
+      "categoryId": 0,
+      "categoryName": "importance",
+      "categoryOptions": [
+        {
+          "optionId": 0,
+          "label": "string",
+          "optionIndex": 0
+        }
+      ]
+    }
+  ]
+}
+

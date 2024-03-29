@@ -1,0 +1,362 @@
+[
+  {
+    "assessmentId": 1,
+    "templateId": 1,
+    "templateName": "T1",
+    "submitedAt": 1692618576,
+    "projectType": "internal",
+    "templateUploadedUserId": 1,
+    "submitedBy": 56,
+    "projectId": 1,
+    "templateUploadedUserName": "Ravi",
+    "scoreScale": {
+      "id": 1,
+      "name": "Score 1",
+      "range": [
+        {
+          "from": 1,
+          "to": 2,
+          "optionIndex": 1
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "optionIndex": 2
+        },
+        {
+          "from": 5,
+          "to": 7,
+          "optionIndex": 3
+        },
+        {
+          "from": 8,
+          "to": 10,
+          "optionIndex": 4
+        }
+      ]
+    },
+    "reviewers": [
+      {
+        "reviewerId": 1,
+        "reviewerAt": 1692618576,
+        "comment": ""
+      }
+    ],
+    "projectCategory": [
+      {
+        "categoryName": "Requirement Phase",
+        "templateQuestionnaire": [
+          {
+            "questionId": 1,
+            "answerOptionIndex": 1,
+            "fieldType": "radio",
+            "comment": "comment",
+            "fileUri": "http://test.com/File.jpg",
+            "mimeType": "image/png",
+            "question": "1. How well-defined are the project objectives? ",
+            "scoreCategory": "importance"
+          }
+        ]
+      }
+    ],
+    "submitStatus": "SAVE",
+    "scoreCategories": [
+      {
+        "categoryId": 1,
+        "categoryName": "importance",
+        "categoryOptions": [
+          {
+            "label": "Very Unimportant",
+            "optionIndex": 1
+          },
+          {
+            "label": "UnImportant",
+            "optionIndex": 2
+          },
+          {
+            "label": "Neutral",
+            "optionIndex": 3
+          },
+          {
+            "label": "important",
+            "optionIndex": 4
+          },
+          {
+            "label": "Very important",
+            "optionIndex": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "assessmentId": 702939129353533000,
+    "templateId": 1,
+    "templateName": "T1",
+    "submitedAt": 1692618576,
+    "projectType": "internal",
+    "templateUploadedUserId": 1,
+    "submitedBy": 56,
+    "projectId": 1,
+    "templateUploadedUserName": "Ravi",
+    "scoreScale": {
+      "id": 1,
+      "name": "Score 1",
+      "range": [
+        {
+          "from": 1,
+          "to": 2,
+          "optionIndex": 1
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "optionIndex": 2
+        },
+        {
+          "from": 5,
+          "to": 7,
+          "optionIndex": 3
+        },
+        {
+          "from": 8,
+          "to": 10,
+          "optionIndex": 4
+        }
+      ]
+    },
+    "reviewers": [
+      {
+        "reviewerId": 1,
+        "reviewerAt": 1692618576,
+        "comment": "reviewed"
+      }
+    ],
+    "projectCategory": [
+      {
+        "categoryName": "Requirement Phase",
+        "templateQuestionnaire": [
+          {
+            "questionId": 1,
+            "answerOptionIndex": 1,
+            "fieldType": "radio",
+            "comment": "comment",
+            "fileUri": "http://test.com/File.jpg",
+            "mimeType": "image/png",
+            "question": "1. How well-defined are the project objectives? ",
+            "scoreCategory": "importance"
+          }
+        ]
+      }
+    ],
+    "submitStatus": "SAVE",
+    "scoreCategories": [
+      {
+        "categoryId": 1,
+        "categoryName": "importance",
+        "categoryOptions": [
+          {
+            "label": "Very Unimportant",
+            "optionIndex": 1
+          },
+          {
+            "label": "UnImportant",
+            "optionIndex": 2
+          },
+          {
+            "label": "Neutral",
+            "optionIndex": 3
+          },
+          {
+            "label": "important",
+            "optionIndex": 4
+          },
+          {
+            "label": "Very important",
+            "optionIndex": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "assessmentId": 799714048756348400,
+    "templateId": 1,
+    "templateName": "T1",
+    "submitedAt": 1692618576,
+    "projectType": "internal",
+    "templateUploadedUserId": 1,
+    "submitedBy": 56,
+    "projectId": 1,
+    "templateUploadedUserName": "Ravi",
+    "scoreScale": {
+      "id": 1,
+      "name": "Score 1",
+      "range": [
+        {
+          "from": 1,
+          "to": 2,
+          "optionIndex": 1
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "optionIndex": 2
+        },
+        {
+          "from": 5,
+          "to": 7,
+          "optionIndex": 3
+        },
+        {
+          "from": 8,
+          "to": 10,
+          "optionIndex": 4
+        }
+      ]
+    },
+    "reviewers": [
+      {
+        "reviewerId": 0,
+        "reviewerAt": 0,
+        "comment": "reviewed"
+      }
+    ],
+    "projectCategory": [
+      {
+        "categoryName": "importance",
+        "templateQuestionnaire": [
+          {
+            "questionId": 1,
+            "answerOptionIndex": 1,
+            "fieldType": "radio",
+            "comment": "comment",
+            "fileUri": "string",
+            "mimeType": "string",
+            "question": "1. How well-defined are the project objectives? ",
+            "scoreCategory": "importance"
+          }
+        ]
+      }
+    ],
+    "submitStatus": "SAVE",
+    "scoreCategories": [
+      {
+        "categoryId": 1,
+        "categoryName": "importance",
+        "categoryOptions": [
+          {
+            "label": "Very Unimportant",
+            "optionIndex": 1
+          },
+          {
+            "label": "UnImportant",
+            "optionIndex": 2
+          },
+          {
+            "label": "Neutral",
+            "optionIndex": 3
+          },
+          {
+            "label": "important",
+            "optionIndex": 4
+          },
+          {
+            "label": "Very important",
+            "optionIndex": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "assessmentId": 9103754967791317000,
+    "templateId": 1,
+    "templateName": "T1",
+    "submitedAt": 1692618576,
+    "projectType": "internal",
+    "templateUploadedUserId": 1,
+    "submitedBy": 56,
+    "projectId": 1,
+    "templateUploadedUserName": "Ravi",
+    "scoreScale": {
+      "id": 1,
+      "name": "Score 1",
+      "range": [
+        {
+          "from": 1,
+          "to": 2,
+          "optionIndex": 1
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "optionIndex": 2
+        },
+        {
+          "from": 5,
+          "to": 7,
+          "optionIndex": 3
+        },
+        {
+          "from": 8,
+          "to": 10,
+          "optionIndex": 4
+        }
+      ]
+    },
+    "reviewers": [
+      {
+        "reviewerId": 0,
+        "reviewerAt": 0,
+        "comment": "Reviewed"
+      }
+    ],
+    "projectCategory": [
+      {
+        "categoryName": "importance",
+        "templateQuestionnaire": [
+          {
+            "questionId": 1,
+            "answerOptionIndex": 1,
+            "fieldType": "radio",
+            "comment": "comment",
+            "fileUri": "http://test.com/File.jpg",
+            "mimeType": "image/png",
+            "question": "1. How well-defined are the project objectives? ",
+            "scoreCategory": "importance"
+          }
+        ]
+      }
+    ],
+    "submitStatus": "SAVE",
+    "scoreCategories": [
+      {
+        "categoryId": 1,
+        "categoryName": "importance",
+        "categoryOptions": [
+          {
+            "label": "Very Unimportant",
+            "optionIndex": 1
+          },
+          {
+            "label": "UnImportant",
+            "optionIndex": 2
+          },
+          {
+            "label": "Neutral",
+            "optionIndex": 3
+          },
+          {
+            "label": "important",
+            "optionIndex": 4
+          },
+          {
+            "label": "Very important",
+            "optionIndex": 5
+          }
+        ]
+      }
+    ]
+  }
+]

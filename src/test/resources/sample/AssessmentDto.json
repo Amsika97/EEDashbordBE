@@ -1,0 +1,93 @@
+{
+
+  "templateId": 1,
+  "templateName": "T1",
+  "submitedAt": 1692618576,
+  "projectType": "internal",
+  "templateUploadedUserId": "a2f876d4-9269-11ee-b9d1-0242ac120002",
+  "submitedBy": "a2f876d4-9269-11ee-b9d1-0242ac120002",
+  "projectId": 1,
+  "templateUploadedUserName": "Ravi",
+  "scoreScale": {
+    "id": 1,
+    "name": "Score 1",
+    "range": [
+      {
+        "from": 1,
+        "to": 2,
+        "optionIndex": 1
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "optionIndex": 2
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "optionIndex": 3
+      },
+      {
+        "from": 8,
+        "to": 10,
+        "optionIndex": 4
+      }
+    ]
+  },
+  "reviewers": [
+    {
+      "reviewerId": "a2f876d4-9269-11ee-b9d1-0242ac120002",
+      "reviewerAt": 1692618576,
+      "comment": ""
+    }
+  ],
+  "projectCategory": [
+    {
+      "categoryName": "Requirement Phase",
+      "templateQuestionnaire": [
+        {
+          "questionId": 1,
+          "answerOptionIndex": 1,
+          "fieldType": "radio",
+          "comment": "comment",
+          "fileUri": "http://test.com/test",
+          "mimeType": "image/png",
+          "question": "1. How well-defined are the project objectives? ",
+          "scoreCategory": "importance"
+        }
+      ]
+    }
+  ],
+  "submitStatus": "SAVE",
+  "scoreCategories": [
+    {
+      "categoryId": 1,
+      "categoryName": "importance",
+      "categoryOptions": [
+        {
+          "label": "Very Unimportant",
+          "optionIndex": 1
+        },
+        {
+          "label": "UnImportant",
+          "optionIndex": 2
+        },
+        {
+          "label": "Neutral",
+          "optionIndex": 3
+        },
+        {
+          "label": "important",
+          "optionIndex": 4
+        },
+        {
+          "label": "Very important",
+          "optionIndex": 5
+        }
+      ]
+    }
+  ],
+  "accountName": "C_First Abu Dhabi Bank",
+  "businessUnitName": "QE (QEX)",
+  "projectName": "UNB - Testing Services - QA"
+}

@@ -1,0 +1,17 @@
+{
+  "businessUnits": [
+    1
+  ],
+  "projects": [
+    1
+  ],
+  "projectTypes": [
+    1
+  ],
+  "scoreScaleId": 1,
+  "templateName": "sample Template4",
+
+  "templateData": "{ \"templateDisplayName\":\"Sprint Maturity Assessment -Ver. 1\",\r\n\t\r\n\t\"projectCategory\":[\r\n\t{\r\n\t\t\"categoryName\":\"intial\",\r\n\t\t\"templateQuestionnaire\": [\r\n\t\t\t\t{\r\n\t\t\t\t\t\r\n\t\t\t\t  \r\n\t\t\t\t  \"question\": \"1. How well-defined are the project objectives? \",\r\n\t\t\t\t  \"scoreCategory\":\"importance\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\r\n\t\t\t\t  \r\n\t\t\t\t  \"question\": \"1. How well-defined are the project objectives? \",\r\n\t\t\t\t  \"scoreCategory\":\"satisfy\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\r\n\t\t\t\t  \r\n\t\t\t\t  \"question\": \"1. How well-defined are the project objectives? \",\r\n\t\t\t\t  \"scoreCategory\":\"importance\"\r\n\t\t\t\t}\r\n\t]\r\n\t\t\r\n\t},\r\n\t{\r\n\t\t\"categoryName\":\"Testing phase\",\r\n\t\t\"templateQuestionnaire\": [\r\n\t\t\t\t{\r\n\t\t\t\t\t\r\n\t\t\t\t  \r\n\t\t\t\t  \"question\": \"1. How well-defined are the project objectives? \",\r\n\t\t\t\t  \"scoreCategory\":\"importance\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\r\n\t\t\t\t  \r\n\t\t\t\t  \"question\": \"1. How well-defined are the project objectives? \",\r\n\t\t\t\t  \"scoreCategory\":\"satisfy\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\r\n\t\t\t\t  \r\n\t\t\t\t  \"question\": \"1. How well-defined are the project objectives? \",\r\n\t\t\t\t  \"scoreCategory\":\"importance\"\r\n\t\t\t\t,\"questionSubText\":\"Spring Planning\",\"extraInfo\":{\"selectedIndex\":1,\"proof\":\"both\"}}\r\n\t]\r\n\t\t\r\n\t}\r\n\t]\r\n\t\r\n\r\n  \r\n}",
+  "templateUploadedUserId": "a2f876d4-9269-11ee-b9d1-0242ac120002",
+  "templateUploadedUserName": "Ravi"
+}

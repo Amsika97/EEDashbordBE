@@ -1,0 +1,186 @@
+{
+
+  "templateId": 275929590,
+  "templateName": "Demo Template",
+  "submitterName": null,
+  "submitedAt": 1703148456911,
+  "projectType": null,
+  "templateUploadedUserId": "0cda4d72-45ce-4817-b117-48eeb85fc64d",
+  "submitedBy": "92e9383e-1ca0-4165-b21a-8c424471ac1a",
+  "projectId": 923948097,
+  "templateUploadedUserName": "Manoj Viswanathan",
+  "scoreScale": {
+    "id": 948831787,
+    "name": "sample score sanity",
+    "scoreScaleType": "multiValue",
+    "createdUserId": 11,
+    "range": [
+      {
+        "from": 1,
+        "to": 2,
+        "optionIndex": 1
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "optionIndex": 2
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "optionIndex": 3
+      },
+      {
+        "from": 7,
+        "to": 8,
+        "optionIndex": 4
+      },
+      {
+        "from": 9,
+        "to": 10,
+        "optionIndex": 5
+      }
+    ]
+  },
+  "reviewers": null,
+  "projectCategory": [
+    {
+      "categoryName": "intial",
+      "templateQuestionnaire": [
+        {
+          "questionId": 739141926,
+          "answerOptionIndex": 2,
+          "fieldType": "radio",
+          "comment": null,
+          "fileUri": null,
+          "mimeType": null,
+          "question": "Are you satisfy with the overall development process?",
+          "scoreCategory": "excellent",
+          "questionDescription": "project Related question"
+        },
+        {
+          "questionId": 132136494,
+          "answerOptionIndex": 3,
+          "fieldType": "radio",
+          "comment": null,
+          "fileUri": null,
+          "mimeType": null,
+          "question": "Are you satisfy with the code coverage? ",
+          "scoreCategory": "familiarity",
+          "questionDescription": "Code coverage description"
+        }
+      ],
+      "categoryDescription": "This project category contains Sprint planning question"
+    },{
+      "categoryName": "Testing phase",
+      "templateQuestionnaire": [
+        {
+          "questionId": 129588538,
+          "answerOptionIndex": 3,
+          "fieldType": "radio",
+          "comment": null,
+          "fileUri": null,
+          "mimeType": null,
+          "question": "Are you familiar with over all testing  prcess and result? ",
+          "scoreCategory": "Quality",
+          "questionDescription": "project Related question"
+        },
+        {
+          "questionId": 306867691,
+          "answerOptionIndex": 3,
+          "fieldType": "radio",
+          "comment": null,
+          "fileUri": null,
+          "mimeType": null,
+          "question": "Is testing covered all the functional requirement?  ",
+          "scoreCategory": "Quality",
+          "questionDescription": "Code coverage description"
+        }
+      ],
+      "categoryDescription": "This project category contains Testing phase level question"
+    }
+
+  ],
+  "submitStatus": "SUBMITTED",
+  "scoreCategories": [
+    {
+      "categoryId": 7,
+      "categoryName": "familiarity",
+      "categoryOptions": [
+        {
+          "label": "Very Unfamiliar",
+          "optionIndex": 1,
+          "optionScore":0
+        },
+        {
+          "label": "Unfamiliar",
+          "optionIndex": 2,
+          "optionScore":0.33
+        },
+        {
+          "label": "Somewhat familiar",
+          "optionIndex": 3,
+          "optionScore":0.66
+        },
+        {
+          "label": "Familiar",
+          "optionIndex": 4,
+          "optionScore":1
+        }
+      ]
+    },{
+      "categoryId": 1,
+      "categoryName": "excellent",
+      "categoryOptions": [
+        {
+          "label": "extra excellent",
+          "optionIndex": 1,
+          "optionScore":0
+        },
+        {
+          "label": "excellent",
+          "optionIndex": 2,
+          "optionScore":1
+        }
+      ]
+    },
+    {
+      "categoryId": 8,
+      "categoryName": "Quality",
+      "categoryOptions": [
+        {
+          "label": "Very Poor",
+          "optionIndex": 1,
+          "optionScore":0
+        },
+        {
+          "label": "Poor",
+          "optionIndex": 2,
+          "optionScore":0.25
+        },
+        {
+          "label": "Neither good nor poor",
+          "optionIndex": 3,
+          "optionScore":0.5
+        },
+        {
+          "label": "Good",
+          "optionIndex": 4,
+          "optionScore":0.75
+        },
+        {
+          "label": "Very good",
+          "optionIndex": 5,
+          "optionScore":1
+        }
+      ]
+    }
+  ],
+  "assessmentDescription": " This Assessment contains Agile project related category",
+  "accountId": 54628771,
+  "projectTypeId": 337168519,
+  "project": null,
+  "accountName": "Maveric Internal Project",
+  "businessUnitName": "CORPORATE (COR)",
+  "projectName": "India GCC Sales | Sales"
+}

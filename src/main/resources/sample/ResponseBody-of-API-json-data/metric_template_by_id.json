@@ -1,0 +1,34 @@
+{
+  "templateId": 362939440,
+  "templateName": "MT",
+  "projectType": null,
+  "templateUploadedUserId": 1,
+  "templateUploadedUserName": "Ravi",
+  "projectCategory": [
+    {
+      "categoryName": "intial",
+      "templateQuestionnaire": [
+        {
+          "questionId": null,
+          "question": "1. How well-defined are the project objectives? ",
+          "fieldType": "radio",
+          "valueType": "number",
+          "questionDescription": "project Related question",
+          "answerData": [
+            {
+              "lable": "yes",
+              "value": "1"
+            },
+            {
+              "lable": "No",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "categoryDescription": "This project category contains intial level question"
+    }
+  ],
+  "description": " This Assessment contains testing project related category",
+  "isActive": true
+}

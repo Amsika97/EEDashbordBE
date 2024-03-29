@@ -1,0 +1,113 @@
+{
+	"templateId": 1,
+	"templateName": "T1",
+	"templateUploadedUserId": 1,
+	"templateUploadedUserName": "Ravi",
+	"projectCategory": [
+		{
+			"categoryName": "Initiation Phase",
+			"templateQuestionnaire": [
+				{
+					"questionId": 1,
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType": "radio",
+					"valueType": "number",
+					"answerData": [
+						{
+							"lable": "yes",
+							"value": 1
+						},
+						{
+							"lable": "No",
+							"value": 0
+						}
+					]
+				},
+				{
+					"questionId": 2,
+					"question": "1. How well-defined are the project objectives? ",
+					"questionDescription": "project Related question",
+					"fieldType": "checkbox",
+					"valueType": "number",
+					"answerData": [
+						{
+							"lable": "importan",
+							"value": 1
+						},
+						{
+							"lable": "very important",
+							"value": 2
+						},
+						{
+							"lable": "Not importan",
+							"value": 3
+						},
+						{
+							"lable": "important",
+							"value": 5
+						}
+					]
+				},
+				{
+					"questionId": 2,
+					"question": "1. How well-defined are the project objectives? ",
+					"questionDescription": "project Related question",
+					"fieldType": "dropdown",
+					"valueType": "number",
+					"answerData": [
+						{
+							"lable": "importan",
+							"value": 1
+						},
+						{
+							"lable": "very important",
+							"value": 2
+						},
+						{
+							"lable": "Not importan",
+							"value": 3
+						},
+						{
+							"lable": "important",
+							"value": 5
+						}
+					]
+				}
+
+			]
+		},
+		{
+			"categoryName":"Testing phase",
+			"categoryDescription":"This project category contains Testing phase level question",
+			"templateQuestionnaire": [
+				{
+
+
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType":"range",
+					"valueType":"number",
+					"max":10,
+					"min":5
+				},
+				{
+
+
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType":"text",
+					"valueType":"String",
+				},
+				{
+
+
+					"question": "1. How well-defined are the project objectives? ",
+					"fieldType":"range",
+					"valueType":"decimal"
+					"max":10.5,
+					"min":5.7
+
+				}
+			]
+
+		}
+	]
+}

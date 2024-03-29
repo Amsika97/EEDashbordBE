@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Score 1",
+    "range": [
+      {
+        "from": 1,
+        "to": 2,
+        "optionIndex": 1
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "optionIndex": 2
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "optionIndex": 3
+      },
+      {
+        "from": 8,
+        "to": 10,
+        "optionIndex": 4
+      }
+    ]
+  }
+]

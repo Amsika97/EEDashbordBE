@@ -1,0 +1,21 @@
+//project types
+curl --location 'http://localhost:8080/ee-dashboard/api/v1/csv/file/PROJECT_TYPE' \
+--header 'Cookie: Cookie_1=value' \
+--form 'file=@"/C:/Users/rameshbo/Desktop/ProjectType.csv"'
+
+//projects
+curl --location 'http://localhost:8080/ee-dashboard/api/v1/csv/file/PROJECT' \
+--header 'Cookie: Cookie_1=value' \
+--form 'file=@"/C:/Users/rameshbo/Desktop/Project.csv"'
+
+//BusinessUnits
+curl --location 'http://localhost:8080/ee-dashboard/api/v1/csv/file/BU' \
+--header 'Cookie: Cookie_1=value' \
+--form 'file=@"/C:/Users/rameshbo/Desktop/BU.csv"'
+
+//ACCOUNTS
+curl --location 'http://localhost:8080/ee-dashboard/api/v1/csv/file/ACCOUNT' \
+--header 'Cookie: Cookie_1=value' \
+--form 'file=@"/C:/Users/rameshbo/Desktop/Account.csv"'
+
+

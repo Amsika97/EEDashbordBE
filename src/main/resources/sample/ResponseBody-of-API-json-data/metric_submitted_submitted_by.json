@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "projectName": "proj2",
+    "submittedBy": 1,
+    "submittedByName": null,
+    "lastUpdateAt": 1701331212509,
+    "reviewerName": null,
+    "reviewerAt": null,
+    "status": "REVIEWED"
+  },
+  {
+    "id": 2,
+    "projectName": "proj2",
+    "submittedBy": 1,
+    "submittedByName": null,
+    "lastUpdateAt": 1701331212509,
+    "reviewerName": null,
+    "reviewerAt": null,
+    "status": "REVIEWED"
+  }
+]
